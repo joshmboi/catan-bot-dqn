@@ -7,8 +7,8 @@ First iteration of creating a Catan Bot. The goal is to create a Deep-Q Neural N
 - 4 player games (this is the general method of play)
 
 ## Steps
-- [] Implement Catan ("Optimized" for self play and RL)
-- [] Create DQN
+- [ ] Implement Catan ("Optimized" for self play and RL)
+- [ ] Create DQN
 
 ## Future Plans:
 - Implement a Hierarchichal DQN structure (I have to read more papers about the concept before implementing)
